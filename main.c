@@ -23,7 +23,7 @@ void display(int height, int width, int **cell) {
       }
       if (cell[y][x]) {
         // printf("[@]");
-        printf("⬛");
+        printf("💩");
       } else {
         // printf("[ ]");
         printf("⬜");
